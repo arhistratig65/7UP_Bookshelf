@@ -115,7 +115,7 @@ donateButton.addEventListener('click', function () {
     behavior: 'smooth',
   });
 });
-
+ 
 donateButtonUp.addEventListener('click', function () {
   donateButtonUp.style.display = 'none';
   donateButton.style.display = 'block';
